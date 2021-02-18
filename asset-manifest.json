@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demoApp/static/css/main.4139208d.chunk.css",
-    "main.js": "/demoApp/static/js/main.6fdaa4c4.chunk.js",
-    "main.js.map": "/demoApp/static/js/main.6fdaa4c4.chunk.js.map",
+    "main.css": "/demoApp/static/css/main.e79dc7a4.chunk.css",
+    "main.js": "/demoApp/static/js/main.1af53495.chunk.js",
+    "main.js.map": "/demoApp/static/js/main.1af53495.chunk.js.map",
     "runtime-main.js": "/demoApp/static/js/runtime-main.baa53349.js",
     "runtime-main.js.map": "/demoApp/static/js/runtime-main.baa53349.js.map",
     "static/js/2.154dea6d.chunk.js": "/demoApp/static/js/2.154dea6d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0ce47052.chunk.js": "/demoApp/static/js/3.0ce47052.chunk.js",
     "static/js/3.0ce47052.chunk.js.map": "/demoApp/static/js/3.0ce47052.chunk.js.map",
     "index.html": "/demoApp/index.html",
-    "static/css/main.4139208d.chunk.css.map": "/demoApp/static/css/main.4139208d.chunk.css.map",
+    "static/css/main.e79dc7a4.chunk.css.map": "/demoApp/static/css/main.e79dc7a4.chunk.css.map",
     "static/js/2.154dea6d.chunk.js.LICENSE.txt": "/demoApp/static/js/2.154dea6d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/demoApp/static/media/oldPaper.f17d9918.jpg",
     "static/media/Bill.fbf72583.png": "/demoApp/static/media/Bill.fbf72583.png",
@@ -33,6 +33,8 @@
     "static/media/design4.eae3d704.png": "/demoApp/static/media/design4.eae3d704.png",
     "static/media/designplan1.4ef5eec3.png": "/demoApp/static/media/designplan1.4ef5eec3.png",
     "static/media/downloadIcon.75191439.png": "/demoApp/static/media/downloadIcon.75191439.png",
+    "static/media/fredMeyer.02951794.JPG": "/demoApp/static/media/fredMeyer.02951794.JPG",
+    "static/media/fredMeyerRewards.2c612a80.PNG": "/demoApp/static/media/fredMeyerRewards.2c612a80.PNG",
     "static/media/buildingPlans2.css": "/demoApp/static/media/graaphPaper.d4210b18.jpg",
     "static/media/heritage.a2f5b6ca.jpg": "/demoApp/static/media/heritage.a2f5b6ca.jpg",
     "static/media/legacyBricks.7e51c673.jpg": "/demoApp/static/media/legacyBricks.7e51c673.jpg",
@@ -42,12 +44,13 @@
     "static/media/point_arrow_up.6a88aec7.png": "/demoApp/static/media/point_arrow_up.6a88aec7.png",
     "static/media/timeIcon.4acd84f3.png": "/demoApp/static/media/timeIcon.4acd84f3.png",
     "static/media/toggle_icon.745580e9.png": "/demoApp/static/media/toggle_icon.745580e9.png",
-    "static/media/unionGapLogoDark.44fe30e5.png": "/demoApp/static/media/unionGapLogoDark.44fe30e5.png"
+    "static/media/unionGapLogoDark.44fe30e5.png": "/demoApp/static/media/unionGapLogoDark.44fe30e5.png",
+    "static/media/walmart.2f43b64d.png": "/demoApp/static/media/walmart.2f43b64d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.baa53349.js",
     "static/js/2.154dea6d.chunk.js",
-    "static/css/main.4139208d.chunk.css",
-    "static/js/main.6fdaa4c4.chunk.js"
+    "static/css/main.e79dc7a4.chunk.css",
+    "static/js/main.1af53495.chunk.js"
   ]
 }
