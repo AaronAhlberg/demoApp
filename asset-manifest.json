@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/demoApp/static/css/main.e79dc7a4.chunk.css",
-    "main.js": "/demoApp/static/js/main.1af53495.chunk.js",
-    "main.js.map": "/demoApp/static/js/main.1af53495.chunk.js.map",
-    "runtime-main.js": "/demoApp/static/js/runtime-main.baa53349.js",
-    "runtime-main.js.map": "/demoApp/static/js/runtime-main.baa53349.js.map",
-    "static/js/2.154dea6d.chunk.js": "/demoApp/static/js/2.154dea6d.chunk.js",
-    "static/js/2.154dea6d.chunk.js.map": "/demoApp/static/js/2.154dea6d.chunk.js.map",
-    "static/js/3.0ce47052.chunk.js": "/demoApp/static/js/3.0ce47052.chunk.js",
-    "static/js/3.0ce47052.chunk.js.map": "/demoApp/static/js/3.0ce47052.chunk.js.map",
+    "main.css": "/demoApp/static/css/main.976bab2f.chunk.css",
+    "main.js": "/demoApp/static/js/main.082ef0c3.chunk.js",
+    "main.js.map": "/demoApp/static/js/main.082ef0c3.chunk.js.map",
+    "runtime-main.js": "/demoApp/static/js/runtime-main.7570a5a7.js",
+    "runtime-main.js.map": "/demoApp/static/js/runtime-main.7570a5a7.js.map",
+    "static/js/2.dc24f086.chunk.js": "/demoApp/static/js/2.dc24f086.chunk.js",
+    "static/js/2.dc24f086.chunk.js.map": "/demoApp/static/js/2.dc24f086.chunk.js.map",
+    "static/js/3.9fa340da.chunk.js": "/demoApp/static/js/3.9fa340da.chunk.js",
+    "static/js/3.9fa340da.chunk.js.map": "/demoApp/static/js/3.9fa340da.chunk.js.map",
     "index.html": "/demoApp/index.html",
-    "static/css/main.e79dc7a4.chunk.css.map": "/demoApp/static/css/main.e79dc7a4.chunk.css.map",
-    "static/js/2.154dea6d.chunk.js.LICENSE.txt": "/demoApp/static/js/2.154dea6d.chunk.js.LICENSE.txt",
+    "static/css/main.976bab2f.chunk.css.map": "/demoApp/static/css/main.976bab2f.chunk.css.map",
+    "static/js/2.dc24f086.chunk.js.LICENSE.txt": "/demoApp/static/js/2.dc24f086.chunk.js.LICENSE.txt",
     "static/media/App.css": "/demoApp/static/media/oldPaper.f17d9918.jpg",
     "static/media/Bill.fbf72583.png": "/demoApp/static/media/Bill.fbf72583.png",
-    "static/media/Helen.ce39d257.png": "/demoApp/static/media/Helen.ce39d257.png",
     "static/media/Jim.f1cbc9fa.jpg": "/demoApp/static/media/Jim.f1cbc9fa.jpg",
     "static/media/Julie.bdb83963.jpg": "/demoApp/static/media/Julie.bdb83963.jpg",
     "static/media/Kathy.e074a9b6.jpg": "/demoApp/static/media/Kathy.e074a9b6.jpg",
@@ -32,10 +31,12 @@
     "static/media/design3.7728cfa0.png": "/demoApp/static/media/design3.7728cfa0.png",
     "static/media/design4.eae3d704.png": "/demoApp/static/media/design4.eae3d704.png",
     "static/media/designplan1.4ef5eec3.png": "/demoApp/static/media/designplan1.4ef5eec3.png",
+    "static/media/donationNames.acdc780d.csv": "/demoApp/static/media/donationNames.acdc780d.csv",
     "static/media/downloadIcon.75191439.png": "/demoApp/static/media/downloadIcon.75191439.png",
     "static/media/fredMeyer.02951794.JPG": "/demoApp/static/media/fredMeyer.02951794.JPG",
     "static/media/fredMeyerRewards.2c612a80.PNG": "/demoApp/static/media/fredMeyerRewards.2c612a80.PNG",
     "static/media/buildingPlans2.css": "/demoApp/static/media/graaphPaper.d4210b18.jpg",
+    "static/media/helen.3919bc73.jpg": "/demoApp/static/media/helen.3919bc73.jpg",
     "static/media/heritage.a2f5b6ca.jpg": "/demoApp/static/media/heritage.a2f5b6ca.jpg",
     "static/media/legacyBricks.7e51c673.jpg": "/demoApp/static/media/legacyBricks.7e51c673.jpg",
     "static/media/legacy_brick_form.3b1a9c05.docx": "/demoApp/static/media/legacy_brick_form.3b1a9c05.docx",
@@ -48,9 +49,9 @@
     "static/media/walmart.2f43b64d.png": "/demoApp/static/media/walmart.2f43b64d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.baa53349.js",
-    "static/js/2.154dea6d.chunk.js",
-    "static/css/main.e79dc7a4.chunk.css",
-    "static/js/main.1af53495.chunk.js"
+    "static/js/runtime-main.7570a5a7.js",
+    "static/js/2.dc24f086.chunk.js",
+    "static/css/main.976bab2f.chunk.css",
+    "static/js/main.082ef0c3.chunk.js"
   ]
 }
