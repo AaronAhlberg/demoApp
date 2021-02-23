@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/demoApp/static/css/main.976bab2f.chunk.css",
-    "main.js": "/demoApp/static/js/main.082ef0c3.chunk.js",
-    "main.js.map": "/demoApp/static/js/main.082ef0c3.chunk.js.map",
+    "main.css": "/demoApp/static/css/main.c67078f3.chunk.css",
+    "main.js": "/demoApp/static/js/main.43738ab7.chunk.js",
+    "main.js.map": "/demoApp/static/js/main.43738ab7.chunk.js.map",
     "runtime-main.js": "/demoApp/static/js/runtime-main.7570a5a7.js",
     "runtime-main.js.map": "/demoApp/static/js/runtime-main.7570a5a7.js.map",
-    "static/js/2.dc24f086.chunk.js": "/demoApp/static/js/2.dc24f086.chunk.js",
-    "static/js/2.dc24f086.chunk.js.map": "/demoApp/static/js/2.dc24f086.chunk.js.map",
+    "static/js/2.cde05607.chunk.js": "/demoApp/static/js/2.cde05607.chunk.js",
+    "static/js/2.cde05607.chunk.js.map": "/demoApp/static/js/2.cde05607.chunk.js.map",
     "static/js/3.9fa340da.chunk.js": "/demoApp/static/js/3.9fa340da.chunk.js",
     "static/js/3.9fa340da.chunk.js.map": "/demoApp/static/js/3.9fa340da.chunk.js.map",
     "index.html": "/demoApp/index.html",
-    "static/css/main.976bab2f.chunk.css.map": "/demoApp/static/css/main.976bab2f.chunk.css.map",
-    "static/js/2.dc24f086.chunk.js.LICENSE.txt": "/demoApp/static/js/2.dc24f086.chunk.js.LICENSE.txt",
+    "static/css/main.c67078f3.chunk.css.map": "/demoApp/static/css/main.c67078f3.chunk.css.map",
+    "static/js/2.cde05607.chunk.js.LICENSE.txt": "/demoApp/static/js/2.cde05607.chunk.js.LICENSE.txt",
     "static/media/App.css": "/demoApp/static/media/oldPaper.f17d9918.jpg",
     "static/media/Bill.fbf72583.png": "/demoApp/static/media/Bill.fbf72583.png",
     "static/media/Jim.f1cbc9fa.jpg": "/demoApp/static/media/Jim.f1cbc9fa.jpg",
@@ -31,7 +31,7 @@
     "static/media/design3.7728cfa0.png": "/demoApp/static/media/design3.7728cfa0.png",
     "static/media/design4.eae3d704.png": "/demoApp/static/media/design4.eae3d704.png",
     "static/media/designplan1.4ef5eec3.png": "/demoApp/static/media/designplan1.4ef5eec3.png",
-    "static/media/donationNames.acdc780d.csv": "/demoApp/static/media/donationNames.acdc780d.csv",
+    "static/media/donationNames.c15abcb0.csv": "/demoApp/static/media/donationNames.c15abcb0.csv",
     "static/media/downloadIcon.75191439.png": "/demoApp/static/media/downloadIcon.75191439.png",
     "static/media/fredMeyer.02951794.JPG": "/demoApp/static/media/fredMeyer.02951794.JPG",
     "static/media/fredMeyerRewards.2c612a80.PNG": "/demoApp/static/media/fredMeyerRewards.2c612a80.PNG",
@@ -50,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7570a5a7.js",
-    "static/js/2.dc24f086.chunk.js",
-    "static/css/main.976bab2f.chunk.css",
-    "static/js/main.082ef0c3.chunk.js"
+    "static/js/2.cde05607.chunk.js",
+    "static/css/main.c67078f3.chunk.css",
+    "static/js/main.43738ab7.chunk.js"
   ]
 }
